@@ -1,0 +1,11 @@
+prebuilt_font {
+    name: "InterVariable.ttf",
+    src: "InterVariable.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "InterVariable-Italic.ttf",
+    src: "InterVariable-Italic.ttf",
+    product_specific: true,
+}
